@@ -1,3 +1,7 @@
+---
+description: Getting started is easy, just sync your GitHub
+---
+
 # First Time Onboarding
 
 ### App link: [app.lightningbounties.com](https://app.lightningbounties.com/)
