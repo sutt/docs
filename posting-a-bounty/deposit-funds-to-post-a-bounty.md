@@ -2,26 +2,35 @@
 description: This page describes how to deposit Funds to your account.
 ---
 
-# Deposit Funds to Post a Bounty
+# Deposit Funds
 
-{% embed url="https://share.synthesia.io/2a52c578-b1ff-4e6d-a8e3-9094d112f958" %}
-Deposit Funds to Post a Bounty
-{% endembed %}
+On: [app.lightningbounties.com](https://app.lightningbounties.com/me), go to your profile
 
-#### When you are on your profile:&#x20;
+## 1 - Click on the button Deposit
 
-#### Step 1:  "Deposit"
+Notice how this profile already has 300 sats
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-#### Step 2: Click on the input field and add the amount of Satoshi you want to deposit and click **Generate.**
+## 2 - Add the amount of sats to deposit
+
+In this example, we aadding 500 sats
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+## 3 - Click on the button Generate
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+## 4 - Use your preferred Lightning Network to scan the generated QR code
+
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+## 5 -  After scanning, your added sats will be reflected on your balance
+
+Notice how this profile went from 300 to **800** after depositing 500 sats
+
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-#### Step 3: **Action: Copy the the invoice address or scan the QR code to deposit**
-
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
-_For any issues or further assistance, please contact our support team at founders@lightningbounties.com._

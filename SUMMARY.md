@@ -9,7 +9,7 @@
 
 ## Posting a Bounty
 
-* [Deposit Funds to Post a Bounty](posting-a-bounty/deposit-funds-to-post-a-bounty.md)
+* [Deposit Funds](posting-a-bounty/deposit-funds-to-post-a-bounty.md)
 * [Create a GitHub issue and Submit a new reward](posting-a-bounty/create-a-github-issue-and-submit-a-new-reward.md)
 
 ## Solve a Bounty
