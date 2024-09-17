@@ -1,35 +1,39 @@
 ---
 description: >-
   This tutorial will guide you in how to create a GitHub issue and create a
-  reward on beta.lightningbounties.com
+  reward to fix the issue on app.lightningbounties.com
 ---
 
 # Create a GitHub issue and Submit a new reward
 
-{% embed url="https://share.synthesia.io/e9972f08-6cdd-475c-9b5f-7e5274134398" %}
+## 1 - Create a GitHub issue
 
-### Create a GitHub Issue
+### 1.1 - On your GitHub repo, click on the Issues tab
 
-#### Step 1: Navigate to Issues
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+### 1.2 - Click on New issue
 
-#### Step 2: Create a New Issue
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+### 1.3  Add title and description to issue
 
-#### Step 3: Enter Issue Title and Description (optional) and Hit _'Submit new issue'_
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+### 1.4 Copy the link of issue created&#x20;
 
-### Submit a New Reward on Lightning Bounties
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-[https://beta.lightningbounties.com/](https://beta.lightningbounties.com/)
+## 2 - Create a reward from a GitHub issue on [app.lightningbounties.com](https://app.lightningbounties.com/me)
 
-#### Step 5: Enter GitHub issue URL and Reward Amount and Hit _"Submit new reward"_
+### 2.1 - Add the URL of GitHub issue and the amount in sats to reward fixing the issue
 
-_Copy and Paste the GitHub issue created in last step here._
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+### 2.2 - Hit Submit new reward, and the GitHub issue will be published on Lightning Bounties
 
-Following these steps will allow you to create a new issue on GitHub and submit a new reward on the Lightning Bounties platform. If you need further assistance, please feel free to contact our support team.
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+## Issue posted on platform:&#x20;
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
