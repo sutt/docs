@@ -1,5 +1,5 @@
 ---
-description: Getting started with our platform
+description: This video explains how our platform works
 ---
 
 # Welcome To Lightning Bounties
