@@ -29,7 +29,7 @@ On encourage toutes sortes de contributions. Jette un oeil à la Table des Mati�
 
 ### J'ai une Question
 
-> Si tu veux poser une question, on suppose que t'as lu la [Documentation](https://github.com/MIT-Bitcoin-2024/demo-gitbook) disponible.
+> Si tu veux poser une question, on suppose que t'as lu la [Documentation](https://github.com/Lightning-Bounties/docs) disponible.
 
 Avant de poser une question, c'est mieux de chercher parmi les [Problèmes](https://github.com/MIT-Bitcoin-2024/lightning-bounty/issues) existants qui pourraient t'aider. Si tu trouves un problème adéquat et que tu as toujours besoin de clarifications, tu peux écrire ta question dans ce problème. Il est aussi recommandé de chercher sur internet pour des réponses en premier.
 
@@ -54,7 +54,7 @@ On s'occupera alors du problème dès que possible.
 Un bon rapport de bug ne doit pas laisser les autres avoir besoin de te relancer pour plus d'informations. Par conséquent, on te demande d'enquêter soigneusement, de collecter des informations et de décrire le problème en détail dans ton rapport. S'il te plaît, complète les étapes suivantes à l'avance pour nous aider à corriger tout bug potentiel le plus rapidement possible.
 
 * Assure-toi que tu utilises la dernière version.
-* Détermine si ton bug est vraiment un bug et non une erreur de ta part, par exemple en utilisant des composants/versions d'environnement incompatibles (Assure-toi d'avoir lu la [documentation](https://github.com/MIT-Bitcoin-2024/demo-gitbook). Si tu cherches du soutien, tu voudras peut-être consulter cette section).
+* Détermine si ton bug est vraiment un bug et non une erreur de ta part, par exemple en utilisant des composants/versions d'environnement incompatibles (Assure-toi d'avoir lu la [documentation](https://github.com/Lightning-Bounties/docs). Si tu cherches du soutien, tu voudras peut-être consulter cette section).
 * Pour voir si d'autres utilisateurs ont rencontré (et potentiellement déjà résolu) le même problème que tu as, vérifie s'il n'y a pas déjà un rapport de bug existant pour ton bug ou ton erreur dans le [bug tracker](https://github.com/MIT-Bitcoin-2024/lightning-bountyissues?q=label%3Abug).
 * Assure-toi aussi de chercher sur internet (y compris Stack Overflow) pour voir si des utilisateurs en dehors de la communauté GitHub ont discuté du problème.
 * Collecte des informations sur le bug :

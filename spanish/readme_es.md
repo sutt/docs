@@ -18,11 +18,11 @@ Siempre estamos buscando mejorar nuestra documentación, ¡y pagamos en sats por
 
 [![Ver Bounties Abiertos](https://img.shields.io/badge/Ver%20Bounties%20Abiertos-naranja?style=for-the-badge)](https://beta.lightningbounties.com)
 
-También puedes revisar la [pestaña de Issues](https://github.com/MIT-Bitcoin-2024/demo-gitbook/issues) en este repositorio para tareas específicas.
+También puedes revisar la [pestaña de Issues](https://github.com/Lightning-Bounties/docs/issues) en este repositorio para tareas específicas.
 
 #### 🚀 Cómo Colaborar
 
-1. **Encuentra un bounty abierto** en nuestra [plataforma beta](https://beta.lightningbounties.com) or en la [pestaña de Issues](https://github.com/MIT-Bitcoin-2024/demo-gitbook/issues).
+1. **Encuentra un bounty abierto** en nuestra [plataforma beta](https://beta.lightningbounties.com) or en la [pestaña de Issues](https://github.com/Lightning-Bounties/docs/issues).
 2. **Haz un fork de este repositorio** y crea una nueva rama para tu trabajo.
 3. **Haz tus cambios** y súbelos con mensajes claros y concisos.
 4. **Envía una solicitud de Pull Request** con una descripción detallada de tus cambios.
@@ -46,7 +46,7 @@ Para obtener una guía completa de nuestro proceso de contribución, consulta nu
 
 #### 📜 Licencia
 
-Este proyecto está bajo la \[[Licencia MIT](https://github.com/MIT-Bitcoin-2024/demo-gitbook?tab=Licencia-1-ov-file)]
+Este proyecto está bajo la \[[Licencia MIT](https://github.com/Lightning-Bounties/docs?tab=Licencia-1-ov-file)]
 
 #### :handshake: Patrocinadores
 
