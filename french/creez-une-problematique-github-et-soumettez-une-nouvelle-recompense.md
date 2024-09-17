@@ -12,7 +12,7 @@
 
 ### Soumettez une nouvelle récompense sur Lightning Bounties
 
-[https://beta.lightningbounties.com/](https://beta.lightningbounties.com/)
+[https://app.lightningbounties.com/](https://app.lightningbounties.com/)
 
 #### Étape 5 : Entrez le lien de la problématique GitHub et le Montant de la Récompense et Tapez _"Soumettre une nouvelle récompense"_
 

@@ -12,7 +12,7 @@
 
 ### Подайте новую награду на платформе Lightning Bounties
 
-[https://beta.lightningbounties.com/](https://beta.lightningbounties.com/)
+[https://app.lightningbounties.com/](https://app.lightningbounties.com/)
 
 #### Шаг 5: Введите URL проблемы GitHub и размер награды и нажмите _"Отправить новую награду"_
 

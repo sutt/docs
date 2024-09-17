@@ -16,13 +16,13 @@ Para información más reciente y completa, por favor visita nuestro GitBook:
 
 Siempre estamos buscando mejorar nuestra documentación, ¡y pagamos en sats por valiosas contribuciones!
 
-[![Ver Bounties Abiertos](https://img.shields.io/badge/Ver%20Bounties%20Abiertos-naranja?style=for-the-badge)](https://beta.lightningbounties.com)
+[![Ver Bounties Abiertos](https://img.shields.io/badge/Ver%20Bounties%20Abiertos-naranja?style=for-the-badge)](https://app.lightningbounties.com)
 
 También puedes revisar la [pestaña de Issues](https://github.com/Lightning-Bounties/docs/issues) en este repositorio para tareas específicas.
 
 #### 🚀 Cómo Colaborar
 
-1. **Encuentra un bounty abierto** en nuestra [plataforma beta](https://beta.lightningbounties.com) or en la [pestaña de Issues](https://github.com/Lightning-Bounties/docs/issues).
+1. **Encuentra un bounty abierto** en nuestra [plataforma beta](https://app.lightningbounties.com) or en la [pestaña de Issues](https://github.com/Lightning-Bounties/docs/issues).
 2. **Haz un fork de este repositorio** y crea una nueva rama para tu trabajo.
 3. **Haz tus cambios** y súbelos con mensajes claros y concisos.
 4. **Envía una solicitud de Pull Request** con una descripción detallada de tus cambios.
