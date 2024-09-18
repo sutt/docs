@@ -4,42 +4,32 @@ description: Here you can find the steps to be taken to work on a bounty to get 
 
 # Working on the Bounty
 
-GitHub issue [example](https://github.com/MIT-Bitcoin-2024/experiments-1/issues/26)
+## 1 - Look for an issue on the [app.lightningbounties.com](https://app.lightningbounties.com/) feed
 
-## Working on a Bounty
+In this example, we are using:[ 'Add color to logo in this repo'](https://github.com/MIT-Bitcoin-2024/experiments-1/issues/34)
 
-**Note:** This example shows how to work on a bounty. The project example involved adding color to a logo based on a GitHub issue.
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-### Steps to Work on a Bounty
+### 1.1 - Click on the issue to get details
 
-#### Step 1: Select a Bounty from Lightning Bounties
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+### 1.2 - Click on 🔗 to see the issue in GitHub
 
-#### Step 2: Navigate to the GitHub issue
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+## 2 - Fix the issue
 
-#### Step 3: Fork the Repository
+### 2.1 - Fork the owner repo to your repository
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-#### Step 4: Work on the bounty
+### &#x20;2.2 - Fix the code
 
-In this example, upload the colored logo.&#x20;
+This is the part where developers work on fixing the code after they fork the repo.&#x20;
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+_In this example, the colored logo has been added to the repo._&#x20;
 
-#### Step 5: Commit Changes
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-
-#### Step 06: Contribute and Open a Pull Request
-
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-#### Step 17: Create Pull Request
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Following these steps, you will have successfully worked on a bounty by creating a fork, making changes, and submitting a pull request for review. If you need any further assistance, please contact our support team.
+### 2.3&#x20;
