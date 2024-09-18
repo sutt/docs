@@ -12,7 +12,7 @@
 
 ### Envía una nueva recompensa en Lightning Bounties
 
-[https://beta.lightningbounties.com/](https://beta.lightningbounties.com/)
+[https://app.lightningbounties.com/](https://app.lightningbounties.com/)
 
 #### Paso 5: Ingresa la URL del problema de GitHub y el monto de la recompensa y presiona _"Enviar nueva recompensa"_
 

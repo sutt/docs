@@ -6,7 +6,7 @@
 
 ***
 
-### 1. Visita beta.lightningbounties.com
+### 1. Visita app.lightningbounties.com
 
 Esta es la página principal que verás a partir del _21/07/2024._ Está en beta, así que mantente a la expectativa de actualizaciones y nuevas funcionalidades.
 

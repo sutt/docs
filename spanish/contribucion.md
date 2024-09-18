@@ -29,7 +29,7 @@ Se valoran y alientan todo tipo de contribuciones. Consulta la Tabla de Contenid
 
 ### Tengo Una Pregunta
 
-> Si deseas hacer una pregunta, asumimos que ya has leído la [Documentación](https://github.com/MIT-Bitcoin-2024/demo-gitbook) disponible.
+> Si deseas hacer una pregunta, asumimos que ya has leído la [Documentación](https://github.com/Lightning-Bounties/docs) disponible.
 
 Antes de hacer una pregunta, es mejor buscar entre los [Problemas](https://github.com/MIT-Bitcoin-2024/lightning-bounty/issues) existentes que podrían ayudarte. En caso de que hayas encontrado un problema adecuado y aún necesites aclaraciones, puedes escribir tu pregunta en este problema. También es recomendable buscar primero en internet respuestas.
 
@@ -54,7 +54,7 @@ Nosotros nos encargaremos del problema lo antes posible.
 Un buen reporte de error no debe dejar a otros necesitando perseguirte para obtener más información. Por lo tanto, te pedimos que investigues cuidadosamente, recopiles información y describas el problema en detalle en tu reporte. Por favor, completa los siguientes pasos con antelación para ayudarnos a solucionar cualquier posible error lo más rápido posible.
 
 * Asegúrate de que estás utilizando la última versión.
-* Determina si tu error es realmente un error y no un error de tu parte, por ejemplo, usando componentes/versiones de ambiente incompatibles (Asegúrate de haber leído la [documentación](https://github.com/MIT-Bitcoin-2024/demo-gitbook). Si estás buscando soporte, quizá quieras revisar esta sección).
+* Determina si tu error es realmente un error y no un error de tu parte, por ejemplo, usando componentes/versiones de ambiente incompatibles (Asegúrate de haber leído la [documentación](https://github.com/Lightning-Bounties/docs). Si estás buscando soporte, quizá quieras revisar esta sección).
 * Para ver si otros usuarios han experimentado (y posiblemente ya han resuelto) el mismo problema que estás teniendo, verifica si no existe ya un reporte de error para tu error o problema en el [rastreador de errores](https://github.com/MIT-Bitcoin-2024/lightning-bountyissues?q=label%3Aerror).
 * También asegúrate de buscar en internet (incluyendo Stack Overflow) para ver si los usuarios fuera de la comunidad de GitHub han discutido el problema.
 * Recopila información sobre el error:
@@ -88,7 +88,7 @@ Esta sección te guiará a través de la presentación de una sugerencia de mejo
 **Antes de Enviar una Mejora**
 
 * Asegúrate de que estás utilizando la última versión.
-* Lee cuidadosamente la [documentación](https://github.com/MIT-Bitcoin-2024/demo-gitbook) y averigua si la funcionalidad ya está cubierta, quizá por una configuración individual.
+* Lee cuidadosamente la [documentación](https://github.com/Lightning-Bounties/docs) y averigua si la funcionalidad ya está cubierta, quizá por una configuración individual.
 * Realiza una [búsqueda](https://github.com/MIT-Bitcoin-2024/lightning-bounty/issues) para ver si la mejora ya ha sido sugerida. Si ya ha sido sugerida, añade un comentario al problema existente en lugar de abrir uno nuevo.
 * Averigua si tu idea se ajusta al alcance y a los objetivos del proyecto. Depende de ti exponer un fuerte caso para convencer a los desarrolladores del proyecto de los méritos de esta característica. Ten en cuenta que queremos características que sean útiles para la mayoría de nuestros usuarios y no sólo para un pequeño subconjunto. Si sólo estás apuntando a una minoría de usuarios, considera la posibilidad de escribir una biblioteca de complementos/plugins.
 
