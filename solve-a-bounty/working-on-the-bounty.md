@@ -26,10 +26,21 @@ In this example, we are using:[ 'Add color to logo in this repo'](https://github
 
 ### &#x20;2.2 - Fix the code
 
-This is the part where developers work on fixing the code after they fork the repo.&#x20;
+This is the part where developers work on fixing the code after they fork the repo.  🧑‍💻
 
-_In this example, the colored logo has been added to the repo._&#x20;
+_In this example, the colored logo has been added to the repo as_ [_issue_ ](https://github.com/MIT-Bitcoin-2024/experiments-1/issues/34)_requested._&#x20;
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-### 2.3&#x20;
+## 3 - Create a Pull Request
+
+Create a pull request to the bounty poster repo.
+
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
+### 3.1 - Close the issue you fix on the Pull Request description
+
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
+⚠️ Note: This step is crucial, if you miss to add the tag close #(issue number ) please create a new Pull Request
+
