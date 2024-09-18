@@ -24,7 +24,7 @@ In this example, we are using:[ 'Add color to logo in this repo'](https://github
 
 <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
-### &#x20;2.2 - Fix the code
+### &#x20;2.2 - Work on the issue
 
 This is the part where developers work on fixing the code after they fork the repo.  🧑‍💻
 
@@ -42,5 +42,18 @@ Create a pull request to the bounty poster repo.
 
 <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-⚠️ Note: This step is crucial, if you miss to add the tag close #(issue number ) please create a new Pull Request
+⚠️ Note: This step is crucial; if you miss adding the tag close #(issue number ), please create a new Pull Request
 
+## 4 - Claim reward in [app.lightningbounties.com](https://app.lightningbounties.com/)
+
+Once the Pull Request gets approved, the developer can claim the reward
+
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+### 4.1 - Click on "Claim Reward" and add pull requested number
+
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+
+### 4.2 - Reward will be added to the balance
+
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
