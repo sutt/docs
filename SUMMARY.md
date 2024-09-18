@@ -12,6 +12,7 @@
 * [Deposit Funds](posting-a-bounty/deposit-funds-to-post-a-bounty.md)
 * [Withdraw Funds](posting-a-bounty/withdraw-funds.md)
 * [Create a GitHub issue and Submit a new reward](posting-a-bounty/create-a-github-issue-and-submit-a-new-reward.md)
+* [User Balances Overview](posting-a-bounty/user-balances-overview.md)
 
 ## Solve a Bounty
 
