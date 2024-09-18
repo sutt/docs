@@ -34,8 +34,6 @@
 * [Contributing](about-lb/contributing.md)
 * [LICENSE.md](about-lb/license.md)
 * [CODE\_OF\_CONDUCT](about-lb/code\_of\_conduct.md)
-* [Blog Section](about-lb/blog-section/README.md)
-  * [The Power of Bounties in Innovation: A Historical and Modern Perspective](about-lb/blog-section/the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
 
 ## 🇲🇽 Spanish
 
