@@ -42,7 +42,7 @@ Create a pull request to the bounty poster repo.
 
 <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-⚠️ Note: This step is crucial; if you miss adding the tag close #(issue number ), please create a new Pull Request
+⚠️ Note: This step is crucial; if you miss adding the tag close #(issue number ), please create a new Pull Request. Or you can edit the Pull Request message to include this message by going to your PR message at top of this page, clicking "..." (top-right) > "edit".
 
 ## 4 - Claim reward in [app.lightningbounties.com](https://app.lightningbounties.com/)
 
