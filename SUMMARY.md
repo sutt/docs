@@ -19,6 +19,7 @@
 * [Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
 * [Working on the Bounty](solve-a-bounty/working-on-the-bounty.md)
 * [How to Convert Sats into Local Currencies](solve-a-bounty/how-to-convert-sats-into-local-currencies.md)
+* [Working on Opensource Frontend: lb-next](solve-a-bounty/working-on-opensource-frontend-lb-next.md)
 
 ## About LB
 
