@@ -4,7 +4,7 @@
 
 To withdraw Sats from the Lightning Network to Coinbase (or any other wallet/exchange), follow these steps. The process remains similar no matter where you're transferring your funds.
 
-## <mark style="background-color:green;">**Part (1):**</mark>** Receiving Bitcoin via Lightning**
+## <mark style="background-color:green;">**Part (1):**</mark>**&#x20;Receiving Bitcoin via Lightning**
 
 ***
 
@@ -19,7 +19,7 @@ To withdraw Sats from the Lightning Network to Coinbase (or any other wallet/exc
 
 ***
 
-## <mark style="background-color:green;">**Part (2):**</mark>** How to withdraw sats from Lightning Bounties to Coinbase?**
+## <mark style="background-color:green;">**Part (2):**</mark>**&#x20;How to withdraw sats from Lightning Bounties to Coinbase?**
 
 ***
 
@@ -45,7 +45,7 @@ To withdraw Sats from the Lightning Network to Coinbase (or any other wallet/exc
 
 
 
-## <mark style="background-color:green;">**Part (3):**</mark>** Converting Your Crypto Into Fiat Using Coinbase.**&#x20;
+## <mark style="background-color:green;">**Part (3):**</mark>**&#x20;Converting Your Crypto Into Fiat Using Coinbase.**&#x20;
 
 
 
