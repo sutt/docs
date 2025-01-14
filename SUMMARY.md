@@ -13,6 +13,8 @@
 * [Withdraw Funds](posting-a-bounty/withdraw-funds.md)
 * [User Balances Overview](posting-a-bounty/user-balances-overview.md)
 * [Create a GitHub issue and Submit a new reward](posting-a-bounty/create-a-github-issue-and-submit-a-new-reward.md)
+* [Issue Lock Time](posting-a-bounty/issue-lock-time.md)
+* [Add Reward to an Existing Bounty](posting-a-bounty/add-reward-to-an-existing-bounty.md)
 
 ## Solve a Bounty
 
@@ -34,25 +36,25 @@
     * [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 * [Contributing](about-lb/contributing.md)
 * [LICENSE.md](about-lb/license.md)
-* [CODE\_OF\_CONDUCT](about-lb/code\_of\_conduct.md)
+* [CODE\_OF\_CONDUCT](about-lb/code_of_conduct.md)
 
 ## 🇲🇽 Spanish
 
-* [README\_es](spanish/readme\_es.md)
-* [getting started\_es](spanish/getting-started\_es.md)
-* [first time onboarding\_es](spanish/first-time-onboarding\_es.md)
+* [README\_es](spanish/readme_es.md)
+* [getting started\_es](spanish/getting-started_es.md)
+* [first time onboarding\_es](spanish/first-time-onboarding_es.md)
 * [Depósito de Fondos para Publicar una Recompensa](spanish/deposito-de-fondos-para-publicar-una-recompensa.md)
 * [Crea un problema en GitHub y envía una nueva recompensa](spanish/crea-un-problema-en-github-y-envia-una-nueva-recompensa.md)
-* [looking for a project to get rewarded\_es](spanish/looking-for-a-project-to-get-rewarded\_es.md)
+* [looking for a project to get rewarded\_es](spanish/looking-for-a-project-to-get-rewarded_es.md)
 * [Equipo de Lightning Bounties](spanish/equipo-de-lightning-bounties.md)
 * [Redes Sociales](spanish/redes-sociales.md)
 * [Glosario (Trabajo en progreso)](spanish/glosario-trabajo-en-progreso.md)
 * [Lightning Bounties Preguntas Frecuentes](spanish/lightning-bounties-preguntas-frecuentes.md)
-* [lightning network faqs\_es](spanish/lightning-network-faqs\_es.md)
+* [lightning network faqs\_es](spanish/lightning-network-faqs_es.md)
 * [Contribución](spanish/contribucion.md)
 * [LICENCIA.md](spanish/licencia.md.md)
-* [CÓDIGO\_DE\_CONDUCTA](spanish/codigo\_de\_conducta.md)
-* [video demos\_es](spanish/video-demos\_es.md)
+* [CÓDIGO\_DE\_CONDUCTA](spanish/codigo_de_conducta.md)
+* [video demos\_es](spanish/video-demos_es.md)
 
 ## 🇨🇦 French
 
@@ -63,26 +65,26 @@
 * [Comment convertir des Sats en monnaies locales](french/comment-convertir-des-sats-en-monnaies-locales.md)
 * [À la recherche d'un projet pour être récompensé](french/a-la-recherche-dun-projet-pour-etre-recompense.md)
 * [Contribuer](french/contribuer.md)
-* [lightning bounties team\_fr](french/lightning-bounties-team\_fr.md)
+* [lightning bounties team\_fr](french/lightning-bounties-team_fr.md)
 * [Glossaire (Travail en cours)](french/glossaire-travail-en-cours.md)
-* [lightning network faqs\_fr](french/lightning-network-faqs\_fr.md)
+* [lightning network faqs\_fr](french/lightning-network-faqs_fr.md)
 * [FAQ sur les Lightning Bounties](french/faq-sur-les-lightning-bounties.md)
-* [lightning network faqs\_fr\_fr](french/lightning-network-faqs\_fr\_fr.md)
+* [lightning network faqs\_fr\_fr](french/lightning-network-faqs_fr_fr.md)
 * [Sociaux](french/sociaux.md)
-* [CODE\_DE\_CONDUITE](french/code\_de\_conduite.md)
-* [license\_fr](french/license\_fr.md)
-* [CODE\_DE\_CONDUITE](french/code\_de\_conduite-1.md)
+* [CODE\_DE\_CONDUITE](french/code_de_conduite.md)
+* [license\_fr](french/license_fr.md)
+* [CODE\_DE\_CONDUITE](french/code_de_conduite-1.md)
 * [Démonstrations en Vidéo](french/demonstrations-en-video.md)
 
 ## 🇷🇺 Russian
 
 * [Документы](russian/dokumenty.md)
 * [Содержание](russian/soderzhanie.md)
-* [getting started\_ru](russian/getting-started\_ru.md)
+* [getting started\_ru](russian/getting-started_ru.md)
 * [Системе](russian/sisteme.md)
 * [Внесение средств для публикации Lightning Bounties](russian/vnesenie-sredstv-dlya-publikacii-lightning-bounties.md)
 * [подача новой награды](russian/podacha-novoi-nagrady.md)
-* [looking for a project to get rewarded\_ru](russian/looking-for-a-project-to-get-rewarded\_ru.md)
+* [looking for a project to get rewarded\_ru](russian/looking-for-a-project-to-get-rewarded_ru.md)
 * [Работа над вознаграждением](russian/rabota-nad-voznagrazhdeniem.md)
 * [Видео демо](russian/video-demo.md)
 * [Местные Валюты](russian/mestnye-valyuty.md)
