@@ -5,7 +5,8 @@
 ## Getting started
 
 * [Welcome To Lightning Bounties](getting-started/getting-started.md)
-* [First Time Onboarding](getting-started/first-time-onboarding.md)
+* [First Time Onboarding](getting-started/first-time-onboarding/README.md)
+  * [GitHub Auth & Lightning Bounties](getting-started/first-time-onboarding/github-auth-and-lightning-bounties.md)
 
 ## Posting a Bounty
 
