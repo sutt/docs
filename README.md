@@ -1,14 +1,6 @@
 # 📖 Lightning Bounties | Docs
 
-<mark style="background-color:orange;">**Welcome to LB Docs**</mark>&#x20;
-
-***
-
-### Select your Language
-
-
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Spanish</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Flag_of_Mexico.svg.webp">Flag_of_Mexico.svg.webp</a></td></tr><tr><td>French</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Flag_of_Canada_(Pantone).svg.png">Flag_of_Canada_(Pantone).svg.png</a></td></tr><tr><td>Russian</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Flag-Russia.webp">Flag-Russia.webp</a></td></tr></tbody></table>
+## <mark style="background-color:yellow;">**Welcome to LB Docs**</mark>
 
 ### 📚 Read Our Documentation
 
@@ -54,11 +46,7 @@ This project is licensed under the \[[MIT License](https://github.com/Lightning-
 
 ### :handshake: Supporters
 
-<div align="left" data-full-width="false">
-
-<figure><img src=".gitbook/assets/GitBook - Dark.jpg" alt="GitBook Is The Best Documentation Platform Ever!" width="302"><figcaption><p>We <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span> GitBook</p></figcaption></figure>
-
-</div>
+<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/GitBook - Dark.jpg" alt="GitBook Is The Best Documentation Platform Ever!" width="302"><figcaption><p>We <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span> GitBook</p></figcaption></figure></div>
 
 We extend our heartfelt appreciation to [GitBook ](https://www.gitbook.com/)for their exceptional support. Their platform has been instrumental in creating and sharing our project's documentation seamlessly.
 
