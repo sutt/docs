@@ -6,7 +6,7 @@ description: This page describes how to deposit Funds to your account.
 
 On: [app.lightningbounties.com](https://app.lightningbounties.com/me), go to your profile
 
-## 1 - Click on the button Deposit
+## 1 - Click on the "Deposit" button
 
 Notice how this profile already has 300 sats
 
@@ -14,15 +14,15 @@ Notice how this profile already has 300 sats
 
 ## 2 - Add the amount of sats to deposit
 
-In this example, we aadding 500 sats
+In this example, we are adding 500 sats
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-## 3 - Click on the button Generate
+## 3 - Click on the "Generate" button
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-## 4 - Use your preferred Lightning Network to scan the generated QR code
+## 4 - Use your preferred Lightning app to scan the generated QR code
 
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
