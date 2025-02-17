@@ -11,17 +11,17 @@
 ***
 
 * [MANGING YOUR BOUNTY](manging-your-bounty/README.md)
-  * [Issue Lock Time](manging-your-bounty/issue-lock-time.md)
-  * [Add Reward to an Existing Bounty](manging-your-bounty/add-reward-to-an-existing-bounty.md)
-  * [Withdraw Funds](manging-your-bounty/withdraw-funds.md)
+  * [Issue Lock Time](posting-a-bounty/issue-lock-time.md)
+  * [Add Reward to an Existing Bounty](posting-a-bounty/add-reward-to-an-existing-bounty.md)
+  * [Withdraw Funds](posting-a-bounty/withdraw-funds.md)
   * [Expire or Reclaim a Bounty Reward](manging-your-bounty/expire-or-reclaim-a-bounty-reward.md)
-  * [User Balances Overview](manging-your-bounty/user-balances-overview.md)
+  * [User Balances Overview](posting-a-bounty/user-balances-overview.md)
 
 ## Solve a Bounty
 
 * [Solving a Bounty](solve-a-bounty/solving-a-bounty/README.md)
-  * [Looking for a project to get rewarded](solve-a-bounty/solving-a-bounty/looking-for-a-project-to-get-rewarded.md)
-  * [Working on a Bounty](solve-a-bounty/solving-a-bounty/working-on-the-bounty.md)
+  * [Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
+  * [Working on a Bounty](solve-a-bounty/working-on-the-bounty.md)
   * [Withdrawing Funds](solve-a-bounty/solving-a-bounty/withdraw-funds.md)
 * [Working on Opensource Frontend: lb-next](solve-a-bounty/working-on-opensource-frontend-lb-next.md)
 * [How to Convert Sats into Local Currencies](solve-a-bounty/how-to-convert-sats-into-local-currencies.md)
@@ -38,9 +38,9 @@
   * [Features](glossary-work-in-progress/features.md)
   * [Why Choose Lightning Bounties?](glossary-work-in-progress/why-choose-lightning-bounties.md)
 * [Community & Engagement](community-and-engagement/README.md)
-  * [Lightning Bounties Team](community-and-engagement/lightning-bounties-team.md)
+  * [Lightning Bounties Team](about-lb/lightning-bounties-team.md)
   * [Blog & Announcements:](community-and-engagement/blog-and-announcements.md)
-  * [Socials](community-and-engagement/socials.md)
+  * [Socials](about-lb/socials.md)
 
 ## About LB
 
