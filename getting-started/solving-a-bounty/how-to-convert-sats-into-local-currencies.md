@@ -25,11 +25,11 @@ To withdraw Sats from the Lightning Network to Coinbase (or any other wallet/exc
 
 1. **Login to Lightning Bounties:**  then click on your account.
 
-![Step #1 ](../.gitbook/assets/step1.png)
+![Step #1 ](../../.gitbook/assets/step1.png)
 
 2. **Initiate Withdrawal:** Select the option to withdraw your sats.
 
-![Step #2](../.gitbook/assets/step2.png)
+![Step #2](../../.gitbook/assets/step2.png)
 
 3a. First, paste your invoice string into the input field&#x20;
 
@@ -37,7 +37,7 @@ To withdraw Sats from the Lightning Network to Coinbase (or any other wallet/exc
 
 3b. Click the “Create”
 
-![Step #3](../.gitbook/assets/step3.png)
+![Step #3](../../.gitbook/assets/step3.png)
 
 4. Your sats should now be reflected in your Coinbase account after the transaction is confirmed.
 

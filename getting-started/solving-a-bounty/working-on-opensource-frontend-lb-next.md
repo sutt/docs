@@ -25,10 +25,10 @@ _We don't want to click "sign in with github" on localhost, but instead add the 
 
 #### Video of Setup
 
-{% file src="../.gitbook/assets/set-jwt-localhost-1.mp4" %}
+{% file src="../../.gitbook/assets/set-jwt-localhost-1.mp4" %}
 
-Or visit: [https://4191743023-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgvH1HLwrajw9XplSBFfy%2Fuploads%2FiHh8RbltxAwaS7x9H0wy%2Fset-jwt-localhost-1.mp4?alt=media\&token=99e8108e-a337-4532-bdd3-010577c112be](https://4191743023-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgvH1HLwrajw9XplSBFfy%2Fuploads%2FiHh8RbltxAwaS7x9H0wy%2Fset-jwt-localhost-1.mp4?alt=media\&token=99e8108e-a337-4532-bdd3-010577c112be)
+Or visit: [https://4191743023-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgvH1HLwrajw9XplSBFfy%2Fuploads%2FiHh8RbltxAwaS7x9H0wy%2Fset-jwt-localhost-1.mp4?alt=media\&token=99e8108e-a337-4532-bdd3-010577c112be](https://4191743023-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgvH1HLwrajw9XplSBFfy%2Fuploads%2FiHh8RbltxAwaS7x9H0wy%2Fset-jwt-localhost-1.mp4?alt=media\&token=99e8108e-a337-4532-bdd3-010577c112be)
 
 
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>

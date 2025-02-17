@@ -8,13 +8,13 @@ On: [app.lightningbounties.com](https://app.lightningbounties.com/me), go to you
 
 Notice how this profile already has 300 sats
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ### 2 - Add the amount of sats to deposit
 
 In this example, we are adding 500 sats
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ### 3 - Click on the "Generate" button
 

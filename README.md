@@ -27,104 +27,20 @@ Getting Started: Brief walkthrough on accessing key features and next steps.
 
 {% embed url="https://youtu.be/8ZbC5kx6bpM?feature=shared" %}
 
-
-
-
-
-
-
 ## <mark style="background-color:yellow;">**Getting Started**</mark>
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>First Time Onbording:</strong></td><td>Loggin into Lightning Bounties for the first time. </td><td><a href=".gitbook/assets/first_time_onbording.png">first_time_onbording.png</a></td></tr><tr><td align="center"><strong>Posting a Bounty:</strong></td><td>Steps for submitting pull requests &#x26; Guidelines for successful bounty claims.</td><td><a href=".gitbook/assets/posting_aBoutny.png">posting_aBoutny.png</a></td></tr><tr><td align="center"><strong>Solving a Bounty:</strong></td><td>Instructions for bounty hunters on the submission process, verification steps, and dispute resolution.</td><td><a href=".gitbook/assets/solving_a_bounty.png">solving_a_bounty.png</a></td></tr><tr><td align="center"><strong>Depositing Sats:</strong></td><td>Step-by-step guide on how to deposit funds into your account, including troubleshooting common issues.</td><td><a href=".gitbook/assets/depositing_sats.png">depositing_sats.png</a></td></tr><tr><td align="center"><strong>Withdrawing Sats:</strong></td><td>How to withdraw rewards by providing a Lightning invoice from your wallet or exchange.</td><td><a href=".gitbook/assets/withdraw_sats.png">withdraw_sats.png</a></td></tr><tr><td align="center"><strong>Manging Your Bounty:</strong> </td><td><p><strong>o</strong> Issue Lock Time</p><p><strong>o</strong> Add Reward to an Existing Bounty</p><p><strong>o</strong> Expire or Reclaim a Bounty Reward</p><p><strong>o</strong> User Balances Overview</p></td><td><a href=".gitbook/assets/manage_bounty.png">manage_bounty.png</a></td></tr></tbody></table>
-
-
-
-
-
-
-
-## User Workflows & Core Functionality
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Managing Funds</strong></td><td><p>Depositing Sats: </p><p>Step-by-step guide on how to deposit funds into your account, including troubleshooting common issues.</p></td><td><p>Withdrawing Funds: </p><p>Detailed instructions on the withdrawal process, fees, and processing times.</p></td></tr><tr><td><strong>Bounty Lifecycle</strong></td><td>Creating a Bounty: How to set up a new bounty including guidelines, submission criteria, and bounty pricing.</td><td>Solving a Bounty: Instructions for bounty hunters on the submission process, verification steps, and dispute resolution.</td></tr></tbody></table>
-
-
-
-##
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
-
-
+<table data-view="cards"><thead><tr><th align="center"></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="getting-started/first-time-onboarding/"><strong>First Time Onbording:</strong></a></td><td>Loggin into Lightning Bounties for the first time. </td><td><a href=".gitbook/assets/first_time_onbording.png">first_time_onbording.png</a></td><td><a href="getting-started/first-time-onboarding/">first-time-onboarding</a></td></tr><tr><td align="center"><a href="getting-started/posting-a-bounty/"><strong>Posting a Bounty:</strong></a></td><td>Steps for submitting pull requests &#x26; Guidelines for successful bounty claims.</td><td><a href=".gitbook/assets/posting_aBoutny.png">posting_aBoutny.png</a></td><td><a href="getting-started/posting-a-bounty/">posting-a-bounty</a></td></tr><tr><td align="center"><a href="getting-started/solving-a-bounty/"><strong>Solving a Bounty:</strong></a></td><td>Instructions for bounty hunters on the submission process, verification steps, and dispute resolution.</td><td><a href=".gitbook/assets/solving_a_bounty.png">solving_a_bounty.png</a></td><td><a href="getting-started/solving-a-bounty/">solving-a-bounty</a></td></tr><tr><td align="center"><a href="getting-started/posting-a-bounty/deposit-funds.md"><strong>Depositing Sats:</strong></a></td><td>Step-by-step guide on how to deposit funds into your account, including troubleshooting common issues.</td><td><a href=".gitbook/assets/depositing_sats.png">depositing_sats.png</a></td><td><a href="getting-started/posting-a-bounty/deposit-funds.md">deposit-funds.md</a></td></tr><tr><td align="center"><a href="getting-started/solving-a-bounty/withdraw-funds.md"><strong>Withdrawing Sats:</strong></a></td><td>How to withdraw rewards by providing a Lightning invoice from your wallet or exchange.</td><td><a href=".gitbook/assets/withdraw_sats.png">withdraw_sats.png</a></td><td><a href="getting-started/solving-a-bounty/withdraw-funds.md">withdraw-funds.md</a></td></tr><tr><td align="center"><a href="getting-started/manging-your-bounty/"><strong>Manging Your Bounty:</strong> </a></td><td><p><strong>o</strong> Issue Lock Time</p><p><strong>o</strong> Add Reward to an Existing Bounty</p><p><strong>o</strong> Expire or Reclaim a Bounty Reward</p><p><strong>o</strong> User Balances Overview</p></td><td><a href=".gitbook/assets/manage_bounty.png">manage_bounty.png</a></td><td><a href="getting-started/manging-your-bounty/">manging-your-bounty</a></td></tr></tbody></table>
 
 ## About Lightning Bounties
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>About Lightning Bounties:</strong></td><td><a href=".gitbook/assets/About.png">About.png</a></td></tr><tr><td align="center"><strong>Mission:</strong></td><td><a href=".gitbook/assets/mission.png">mission.png</a></td></tr><tr><td align="center"><strong>Goals:</strong></td><td><a href=".gitbook/assets/goals.png">goals.png</a></td></tr><tr><td align="center"><strong>Values:</strong></td><td><a href=".gitbook/assets/values.png">values.png</a></td></tr><tr><td align="center"><strong>Features:</strong></td><td><a href=".gitbook/assets/features.png">features.png</a></td></tr><tr><td align="center"><strong>Why Choose Lightning Bounties?</strong></td><td><a href=".gitbook/assets/why_lb.png">why_lb.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="glossary-work-in-progress/"><strong>About Lightning Bounties:</strong></a></td><td><a href=".gitbook/assets/About.png">About.png</a></td><td><a href="glossary-work-in-progress/">glossary-work-in-progress</a></td></tr><tr><td align="center"><a href="glossary-work-in-progress/mission.md"><strong>Mission:</strong></a></td><td><a href=".gitbook/assets/mission.png">mission.png</a></td><td><a href="glossary-work-in-progress/mission.md">mission.md</a></td></tr><tr><td align="center"><a href="glossary-work-in-progress/goals.md"><strong>Goals:</strong></a></td><td><a href=".gitbook/assets/goals.png">goals.png</a></td><td><a href="glossary-work-in-progress/goals.md">goals.md</a></td></tr><tr><td align="center"><a href="glossary-work-in-progress/values.md"><strong>Values:</strong></a></td><td><a href=".gitbook/assets/values.png">values.png</a></td><td><a href="glossary-work-in-progress/values.md">values.md</a></td></tr><tr><td align="center"><a href="glossary-work-in-progress/features.md"><strong>Features:</strong></a></td><td><a href=".gitbook/assets/features.png">features.png</a></td><td><a href="glossary-work-in-progress/features.md">features.md</a></td></tr><tr><td align="center"><a href="glossary-work-in-progress/why-choose-lightning-bounties.md"><strong>Why Choose Lightning Bounties?</strong></a></td><td><a href=".gitbook/assets/why_lb.png">why_lb.png</a></td><td><a href="glossary-work-in-progress/why-choose-lightning-bounties.md">why-choose-lightning-bounties.md</a></td></tr></tbody></table>
 
 ## Community & Engagement
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>Lightning Bounties Team:</strong> </td><td><a href=".gitbook/assets/Team.png">Team.png</a></td></tr><tr><td align="center"><strong>Blog &#x26; Announcements:</strong></td><td><a href=".gitbook/assets/Blog_and_Announcements.png">Blog_and_Announcements.png</a></td></tr><tr><td align="center"><strong>Social Media &#x26; Community Channels:</strong></td><td><a href=".gitbook/assets/Social_Media.png">Social_Media.png</a></td></tr></tbody></table>
-
-
-
-
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="about-lb/lightning-bounties-team.md"><strong>Lightning Bounties Team:</strong> </a></td><td><a href=".gitbook/assets/Team.png">Team.png</a></td><td><a href="about-lb/lightning-bounties-team.md">lightning-bounties-team.md</a></td></tr><tr><td align="center"><a href="community-and-engagement/blog-and-announcements.md"><strong>Blog &#x26; Announcements:</strong></a></td><td><a href=".gitbook/assets/Blog_and_Announcements.png">Blog_and_Announcements.png</a></td><td><a href="community-and-engagement/blog-and-announcements.md">blog-and-announcements.md</a></td></tr><tr><td align="center"><a href="about-lb/socials.md"><strong>Social Media &#x26; Community Channels:</strong></a></td><td><a href=".gitbook/assets/Social_Media.png">Social_Media.png</a></td><td><a href="about-lb/socials.md">socials.md</a></td></tr></tbody></table>
 
 ## FAQ's & Resources:&#x20;
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Frequently Asked Questions</td><td><a href=".gitbook/assets/FAQ.png">FAQ.png</a></td></tr><tr><td align="center">Quick References</td><td><a href=".gitbook/assets/quick_ref.png">quick_ref.png</a></td></tr><tr><td align="center">External Resources:</td><td><a href=".gitbook/assets/external_resources.png">external_resources.png</a></td></tr><tr><td align="center"></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="./#faqs-and-resources"><strong>Frequently Asked Questions</strong></a></td><td><a href=".gitbook/assets/FAQ.png">FAQ.png</a></td><td><a href="faqs-and-resources/lightning-network-faqs.md">lightning-network-faqs.md</a></td></tr><tr><td align="center"><a href="faqs-and-resources/glossary-work-in-progress.md"><strong>Quick References</strong></a><strong>:</strong></td><td><a href=".gitbook/assets/quick_ref.png">quick_ref.png</a></td><td><a href="faqs-and-resources/glossary-work-in-progress.md">glossary-work-in-progress.md</a></td></tr><tr><td align="center"><a href="faqs-and-resources/external-resources/"><strong>External Resources</strong></a></td><td><a href=".gitbook/assets/external_resources.png">external_resources.png</a></td><td><a href="faqs-and-resources/external-resources/">external-resources</a></td></tr><tr><td align="center"></td><td></td><td></td></tr></tbody></table>
 
-
-
-
-
-
-
-## <mark style="background-color:yellow;">**Welcome to LB Docs**</mark>
-
-### 📚 Read Our Documentation
-
-For the most up-to-date and comprehensive documentation, please visit our GitBook:
-
-[![GitBook Documentation](https://img.shields.io/badge/GitBook-Documentation-blue?style=for-the-badge\&logo=gitbook)](https://docs.lightningbounties.com/docs/)
-
-### 💰 Open Bounties on Our Documentation
-
-We're constantly looking to improve our documentation, and we pay in sats for valuable contributions!
-
-[![View Open Bounties](https://img.shields.io/badge/View%20Open%20Bounties-orange?style=for-the-badge)](https://app.lightningbounties.com)
-
-You can also check the [Issues tab](https://github.com/Lightning-Bounties/docs/issues) on this repo for specific tasks.
-
-### 🚀 How to Contribute
-
-1. **Find an open bounty** on our [bounty platform](https://app.lightningbounties.com) or in the [Issues tab](https://github.com/Lightning-Bounties/docs/issues).
-2. **Fork this repository** and create a new branch for your work.
-3. **Make your changes** and commit them with clear, concise commit messages.
-4. **Submit a Pull Request** with a detailed description of your changes.
-5. **Get paid in SATs** once your PR is reviewed and merged!
-
-For a full guide on our contribution process, please check our [Contribution Guidelines](about-lb/contributing.md).
-
-### 🌟 Why Contribute?
-
-* **Earn Bitcoin**: Get paid in sats for your valuable contributions.
-* **Learn**: Dive deep into Open-Source, Bitcoin, & Lightning Network technologies and uncover the future of money and decentralized tech.
-* **Accelerate Bug Fixes**: Collaborate with talented security researchers to speed up bug fixes, saving newbie coders valuable time.
-* **Join the Community**: Become part of the vibrant Open-Source Movement and build the future you want to see.
-
-### 📞 Contact Us
-
-Have questions? Want to discuss a bounty?
-
-* 📧 Email: [founders@lightningbounties.com](mailto:founders@lightningbounties.com)
-* 🐦 Twitter: [@LBounties](https://x.com/LBounties)
-
-### 📜 License
-
-This project is licensed under the \[[MIT License](https://github.com/Lightning-Bounties/docs?tab=License-1-ov-file)]
-
-### :handshake: Supporters
-
-<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/GitBook - Dark.jpg" alt="GitBook Is The Best Documentation Platform Ever!" width="302"><figcaption><p>We <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span> GitBook</p></figcaption></figure></div>
-
-We extend our heartfelt appreciation to [GitBook ](https://www.gitbook.com/)for their exceptional support. Their platform has been instrumental in creating and sharing our project's documentation seamlessly.
-
-⚡ Powered By Open-Source ⚡
+## ⚡ Powered By Open-Source ⚡
