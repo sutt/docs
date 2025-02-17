@@ -4,7 +4,6 @@
 
 ## Getting started
 
-* [Welcome To Lightning Bounties](getting-started/getting-started.md)
 * [FIRST TIME ONBORDING](getting-started/first-time-onboarding/README.md)
   * [GitHub Auth & Lightning Bounties](getting-started/first-time-onboarding/github-auth-and-lightning-bounties.md)
 * [SOLVING A BOUNTY](getting-started/solving-a-bounty/README.md)
@@ -33,7 +32,7 @@
   * [Why Choose Lightning Bounties?](glossary-work-in-progress/why-choose-lightning-bounties.md)
 * [Community & Engagement](community-and-engagement/README.md)
   * [Lightning Bounties Team](about-lb/lightning-bounties-team.md)
-  * [Blog & Announcements:](community-and-engagement/blog-and-announcements.md)
+  * [Lightning Bounties Blog](https://blog.lightningbounties.com/)
   * [Socials](about-lb/socials.md)
 * [FAQ'S & RESOURCES](faqs-and-resources/README.md)
   * [Lightning Bounties FAQ's](faqs-and-resources/lightning-bounties-faqs.md)
@@ -58,4 +57,7 @@
     * [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 * [📖 Copy of Lightning Bounties | Docs](archived/readme.md)
 * [Copy of Welcome To Lightning Bounties](archived/getting-started.md)
-* [Page 1](archived/page-1.md)
+
+***
+
+* [Welcome To Lightning Bounties](getting-started-1.md)
