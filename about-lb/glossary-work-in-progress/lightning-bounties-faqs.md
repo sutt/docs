@@ -10,13 +10,9 @@ description: >-
 
 <summary>What's Lightning Bounties?</summary>
 
-Lightning Bounties is a Web3 Bug Bounty Platform that is tailored for the Lightning Network. It provides a platform for developers, researchers, and ethical hackers to discover and report bugs, vulnerabilities, and security issues within Lightning Network applications and protocols.
+Lightning Bounties is a Bitcoin-powered bug bounty platform that seamlessly integrates with GitHub’s familiar workflows, allowing developers to earn Bitcoin for fixing bugs and contributing to open-source projects.
 
-Lightning Bounties offers an opportunity for the Lightning community to proactively address potential security threats and ensure the overall safety and integrity of the network.
-
-The platform facilitates the responsible disclosure of vulnerabilities and rewards individuals for their efforts in identifying and reporting security issues, ultimately contributing to the ongoing improvement and stability of the Lightning network.
-
-Through Lightning Bounties, participants can engage in a collaborative effort to bolster the security of the Lightning ecosystem, and contribute to a safer and more reliable network for all users.
+Getting started is simple—no installations or complicated setups required. Just visit [**app.lightningbounties.com**](https://app.lightningbounties.com/), log in with your GitHub account, and you’re ready to post or solve bounties instantly. Lightning Bounties makes it easy for anyone to contribute their skills, support open-source innovation, and get rewarded in Bitcoin.&#x20;
 
 </details>
 

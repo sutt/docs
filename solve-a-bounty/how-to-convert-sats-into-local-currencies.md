@@ -15,7 +15,7 @@ To withdraw Sats from the Lightning Network to Coinbase (or any other wallet/exc
    * Invoices are valid for 72 hours.
 5. Copy the invoice. You will need this in the next section.
 
-{% embed url="https://youtube.com/shorts/5ztvoJlsCu0" fullWidth="true" %}
+{% embed url="https://youtube.com/shorts/5ztvoJlsCu0" fullWidth="false" %}
 
 ***
 
