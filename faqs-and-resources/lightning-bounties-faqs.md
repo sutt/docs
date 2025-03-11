@@ -96,7 +96,7 @@ Yes! You can post bounties for any open-source project on GitHub, even if you’
 
 <summary>What is a Bounty Lock Time?</summary>
 
-See Detailed Info Here: [issue-lock-time.md](../getting-started/manging-your-bounty/issue-lock-time.md "mention")
+See Detailed Info Here: [issue-lock-time.md](../getting-started/managing-your-bounty/issue-lock-time.md "mention")
 
 **TLDR:** _A lock time guarantees that the reward remains available for a set period (e.g., two weeks) while developers work on solving the iss&#x75;_&#x65;.
 
@@ -104,7 +104,7 @@ See Detailed Info Here: [issue-lock-time.md](../getting-started/manging-your-bou
 
 <details>
 
-<summary><strong>Can I Add Additional Funds to an Existing Bounty?</strong><br>See Detailed Info Here: <a data-mention href="../getting-started/manging-your-bounty/add-reward-to-an-existing-bounty.md">add-reward-to-an-existing-bounty.md</a></summary>
+<summary><strong>Can I Add Additional Funds to an Existing Bounty?</strong><br>See Detailed Info Here: <a data-mention href="../getting-started/managing-your-bounty/add-reward-to-an-existing-bounty.md">add-reward-to-an-existing-bounty.md</a></summary>
 
 **TLDR:** _Yes, you can increase the reward for an open bounty at any time by adding more sats (Bitcoin micropayments)._
 

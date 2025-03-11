@@ -1,4 +1,4 @@
-# Glossary (Work in Progress)
+# Glossary
 
 ## Common Terms
 
@@ -36,7 +36,7 @@ _Credit: bitcoin.design_
 
 Since a [private key](https://bitcoin.design/guide/glossary/#private-key) can be used to prove that the holder controls a specific address, it can therefore authorize transactions from the address. This is called a digital signature.
 
-<img src="../../.gitbook/assets/image (14).png" alt="https://bitcoin.design/assets/images/guide/glossary/signature.jpg" data-size="original">
+<img src="../.gitbook/assets/image (14).png" alt="https://bitcoin.design/assets/images/guide/glossary/signature.jpg" data-size="original">
 
 One of the most important activities of the Bitcoin network is to verify that signatures are valid.
 
@@ -283,22 +283,6 @@ The Lightning Network is still evolving, so some failed transactions are normal.
 
 </details>
 
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
 
 
 ## FAQ's Lightning Network Wallets&#x20;
@@ -366,14 +350,6 @@ The idea is that a <mark style="color:blue;">cold</mark> wallet is less suscepti
 
 </details>
 
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
 
 
 ## Lightning Bounties FAQ's
@@ -412,19 +388,11 @@ Lightning Bounties caters to two primary groups: **developers** and **organizati
 
 **Linking your GitHub account to Lightning Bounties is necessary for several reasons:**
 
-<img src="../../.gitbook/assets/image (18).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (18).png" alt="" data-size="original">
 
 
 
 **TLDR**: _Linking your GitHub account streamlines bug hunting, promotes collaboration, and ensures proper reward distribution._
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
 
 </details>
 

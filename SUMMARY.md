@@ -15,12 +15,12 @@
 * [POSTING A BOUNTY](getting-started/posting-a-bounty/README.md)
   * [Deposit Funds](getting-started/posting-a-bounty/deposit-funds.md)
   * [Create a GitHub issue and Submit a new reward](getting-started/posting-a-bounty/create-a-github-issue-and-submit-a-new-reward.md)
-* [MANGING YOUR BOUNTY](getting-started/manging-your-bounty/README.md)
-  * [Issue Lock Time](getting-started/manging-your-bounty/issue-lock-time.md)
-  * [Add Reward to an Existing Bounty](getting-started/manging-your-bounty/add-reward-to-an-existing-bounty.md)
-  * [Withdraw Funds](getting-started/manging-your-bounty/withdraw-funds.md)
-  * [Expire or Reclaim a Bounty Reward](getting-started/manging-your-bounty/expire-or-reclaim-a-bounty-reward.md)
-  * [User Balances Overview](getting-started/manging-your-bounty/user-balances-overview.md)
+* [MANAGING YOUR BOUNTY](getting-started/managing-your-bounty/README.md)
+  * [Issue Lock Time](getting-started/managing-your-bounty/issue-lock-time.md)
+  * [Add Reward to an Existing Bounty](getting-started/managing-your-bounty/add-reward-to-an-existing-bounty.md)
+  * [Withdraw Funds](getting-started/managing-your-bounty/withdraw-funds.md)
+  * [Expire or Reclaim a Bounty Reward](getting-started/managing-your-bounty/expire-or-reclaim-a-bounty-reward.md)
+  * [User Balances Overview](getting-started/managing-your-bounty/user-balances-overview.md)
 
 ***
 
